@@ -9,5 +9,6 @@ public class Log4jTest1 {
         logger.info("this is a info");
         logger.warn("this is a warning!");
         logger.info("adfadadf");
+        System.out.println("in common ... ");
     }
 }
